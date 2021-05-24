@@ -11,12 +11,11 @@
 #### echo
 
       echo $SHELL
+      echo $0
       
 - ใช้ $ เพื่อระบุ system variable ที่ชื่อ SHELL
 
 
-
-      echo $0
 
 ### REference
 
