@@ -4,7 +4,7 @@
 
 <user>@<hostname>
 
-    root@630a1f8f0dcd
+root@630a1f8f0dcd
    
    
 
