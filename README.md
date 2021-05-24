@@ -4,9 +4,9 @@
 
       root@630a1f8f0dcd 
    
-root คือ user 
+- root คือ user 
 
-630a1f8f0dcd คือ hostname
+- 630a1f8f0dcd คือ hostname
    
 
 ### REference
