@@ -18,6 +18,7 @@
 .
 
       uname
+      uname -a
 
 
 ### REference
