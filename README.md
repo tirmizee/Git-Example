@@ -11,6 +11,8 @@
 #### echo
 
       echo $SHELL
+      
+- ใช้ $ เพื่อระบุ system variable
 
 ### REference
 
