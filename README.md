@@ -7,7 +7,9 @@
 - root คือ user 
 
 - 630a1f8f0dcd คือ hostname
-   
+
+      echo $SHELL 
+      /bin/bash
 
 ### REference
 
