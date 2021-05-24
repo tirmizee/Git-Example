@@ -15,6 +15,9 @@
       
 - ใช้ $ เพื่อระบุ system variable ที่ชื่อ SHELL
 
+.
+
+      uname
 
 
 ### REference
