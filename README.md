@@ -10,6 +10,8 @@
 
 #### echo
 
+เพื่อแสดงข้อความ text/string
+
       echo $SHELL
       
 - ใช้ $ เพื่อระบุ system variable ที่ชื่อ SHELL
