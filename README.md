@@ -8,7 +8,7 @@
 
 - 630a1f8f0dcd คือ hostname
 
-#### echo
+#### echo command
 
 คำสั่งสำหรับใช้แสดงข้อความ
 
@@ -17,22 +17,30 @@
       
 - ใช้ $ เพื่อระบุ system variable ที่ชื่อ SHELL
 
-#### uname
+#### uname command
 
 คำสั่งที่พิมพ์ข้อมูลพื้นฐานเกี่ยวกับชื่อระบบปฏิบัติการและฮาร์ดแวร์ระบบ
 
       uname
       uname -a
 
-#### uptime
+#### uptime command
 
       uptime
       
-#### w
+#### w commad
 
 คำสั่งแสดงว่าผู้ใช้รายใดถูกล็อก
 
       w
+
+#### ls command
+
+คำสั่งแสดงรายการไฟล์และไดเร็กทอรีย่อยภายในไดเร็กทอรีปัจจุบัน
+
+      ls
+      ls .
+      ls /bin
 
 ### REference
 
