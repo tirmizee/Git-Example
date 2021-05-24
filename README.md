@@ -2,7 +2,11 @@
 
 ### Commands
 
-    cd
+<user>@<hostname>
+
+    root@630a1f8f0dcd
+   
+   
 
 ### REference
 
