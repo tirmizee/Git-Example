@@ -24,6 +24,7 @@
       uname
       uname -a
 
+#### uptime
 
 ### REference
 
