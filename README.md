@@ -44,6 +44,8 @@
 
 #### which command
 
+คำสั่งแสดงเส้นทางของ executable file.
+
 ### REference
 
 - https://www.codeleaks.io/how-to-uncommit-changes-in-git/ (uncommit)
