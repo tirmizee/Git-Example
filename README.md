@@ -14,6 +14,8 @@
       
 - ใช้ $ เพื่อระบุ system variable ที่ชื่อ SHELL
 
+      echo $0
+
 ### REference
 
 - https://www.codeleaks.io/how-to-uncommit-changes-in-git/ (uncommit)
