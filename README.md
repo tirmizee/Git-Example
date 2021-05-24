@@ -10,7 +10,7 @@
 
 #### echo
 
-เพื่อแสดงข้อความ text/string
+##### เพื่อแสดงข้อความ text/string
 
       echo $SHELL
       
