@@ -13,7 +13,9 @@
       echo $SHELL
       
 - ใช้ $ เพื่อระบุ system variable ที่ชื่อ SHELL
-\n
+
+
+
       echo $0
 
 ### REference
