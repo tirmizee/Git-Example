@@ -26,6 +26,14 @@
 
 #### uptime
 
+      uptime
+      
+#### w
+
+คำสั่งแสดงว่าผู้ใช้รายใดถูกล็อก
+
+      w
+
 ### REference
 
 - https://www.codeleaks.io/how-to-uncommit-changes-in-git/ (uncommit)
