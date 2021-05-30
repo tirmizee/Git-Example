@@ -50,4 +50,4 @@
 
 - https://www.codeleaks.io/how-to-uncommit-changes-in-git/ (uncommit)
 - https://education.github.com/git-cheat-sheet-education.pdf
-
+- https://git-scm.com/docs
