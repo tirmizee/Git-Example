@@ -22,6 +22,8 @@
 
       git clone [URL]
 
+### TRACKING PATH CHANGES
+
 - ดูประวัติการ commit ของแต่ล่ะคน
 
       git log --oneline
