@@ -28,6 +28,8 @@
 
       git log --oneline
 
+### STAGE & SNAPSHOT
+
 ### REWRITE HISTORY
 
 ### TEMPORARY COMMITS
