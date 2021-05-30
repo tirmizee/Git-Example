@@ -44,9 +44,9 @@
       
 ### BRANCH & MERGE
    
-- xxx
+- สร้าง branch ใหม่ชื่อ dev-new ภายใต้ branch dev
  
-      git checkout -b newbranch frombranch
+      git checkout -b dev-new dev
       
 ### REWRITE HISTORY
 
