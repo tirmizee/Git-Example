@@ -1,5 +1,7 @@
 # Git-Example
 
+### SETUP
+
 - xxx
 
       git config --global user.name "Pratya Yeekhaday"
@@ -9,6 +11,12 @@
 
       git config user.name
       git config user.eamil
+
+### SETUP INIT
+
+- xxx
+
+      git init 
 
 - ดูประวัติการ commit ของแต่ล่ะคน
 
