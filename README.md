@@ -30,6 +30,10 @@
 
 ### STAGE & SNAPSHOT
 
+- แสดงไฟล์ที่แก้ไขใน directory
+
+      git status
+
 ### REWRITE HISTORY
 
 ### TEMPORARY COMMITS
