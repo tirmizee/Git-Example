@@ -21,6 +21,10 @@
 - ดึงข้อมูล repository จาก remote host ผ่าน URL
 
       git clone [URL]
+      
+- ดึงข้อมูล repository branch dev จาก remote host ผ่าน URL
+
+      git clone -b dev [URL]
 
 ### TRACKING PATH CHANGES
 
