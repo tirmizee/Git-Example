@@ -14,9 +14,13 @@
 
 ### SETUP INIT
 
-- xxx
+- เริ่มต้น directory ที่มีอยู่เป็นที่เก็บ Git
 
       git init 
+      
+- ดึงข้อมูล repository จาก remote host ผ่าน URL
+
+      git clone [URL]
 
 - ดูประวัติการ commit ของแต่ล่ะคน
 
