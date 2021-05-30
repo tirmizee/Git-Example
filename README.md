@@ -1,8 +1,11 @@
 # Git-Example
 
+      git config --global user.name "Pratya Yeekhaday"
+
 - ดูประวัติการ commit ของแต่ล่ะคน
 
       git log --oneline
+
 
 ### REference
 
