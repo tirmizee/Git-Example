@@ -58,3 +58,4 @@
 - https://education.github.com/git-cheat-sheet-education.pdf
 - https://git-scm.com/docs
 - https://stackoverflow.com/questions/2765421/how-do-i-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too (push new local branch to remote)
+- https://stackoverflow.com/questions/40145657/merge-local-branch-into-remote-branch-other-than-master
