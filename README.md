@@ -28,6 +28,8 @@
 
       git log --oneline
 
+### REWRITE HISTORY
+
 ### TEMPORARY COMMITS
 
 ### REference
