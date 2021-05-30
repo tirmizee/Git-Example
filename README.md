@@ -38,6 +38,10 @@
 
       git status
 
+- commit staged ที่มีการเปลี่ยนแปลง 
+
+      git commit -m “[descriptive message]”
+      
 ### REWRITE HISTORY
 
 ### TEMPORARY COMMITS
