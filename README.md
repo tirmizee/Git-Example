@@ -42,6 +42,12 @@
 
       git commit -m “[descriptive message]”
       
+### BRANCH & MERGE
+   
+- xxx
+ 
+      git checkout -b newbranch frombranch
+      
 ### REWRITE HISTORY
 
 ### TEMPORARY COMMITS
