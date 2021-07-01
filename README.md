@@ -51,7 +51,14 @@
 - สร้าง branch ใหม่ชื่อ dev-new ภายใต้ branch dev
  
       git checkout -b dev-new dev
-      
+
+- xxx
+
+      git checkout master
+      git pull origin master
+      git merge test
+      git push origin master
+
 ### REWRITE HISTORY
 
 ### TEMPORARY COMMITS
