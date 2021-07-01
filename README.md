@@ -28,9 +28,13 @@
 
 ### TRACKING PATH CHANGES
 
-- ดูประวัติการ commit ของแต่ล่ะคน
+- ดูประวัติการ commit ทั้งหมด
 
       git log --oneline
+
+- ดูประวัติการ 10 commit ล่าสุด 
+
+      git log --pretty=oneline -n 10
 
 ### STAGE & SNAPSHOT
 
