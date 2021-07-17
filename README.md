@@ -52,11 +52,14 @@
  
       git checkout -b dev-new dev
 
-- xxx
+- merge to master
 
       git checkout master
       git pull origin master
       git merge test
+      git status
+      git add .
+      git commit -m 'message'
       git push origin master
 
 ### REWRITE HISTORY
