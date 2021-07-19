@@ -52,11 +52,14 @@
  
       git checkout -b dev-new dev
 
-- xxx
+- merge to master
 
       git checkout master
       git pull origin master
       git merge test
+      git status
+      git add .
+      git commit -m 'message'
       git push origin master
 
 ### REWRITE HISTORY
@@ -69,5 +72,4 @@
 - https://education.github.com/git-cheat-sheet-education.pdf
 - https://git-scm.com/docs
 - https://stackoverflow.com/questions/2765421/how-do-i-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too (push new local branch to remote)
-- https://stackoverflow.com/questions/40145657/merge-local-branch-into-remote-branch-other-than-master
-- 
+- https://stackoverflow.com/questions/40145657/merge-local-branch-into-remote-branch-other-than-master- https://www.git-tower.com/learn/git/faq/create-branch/
